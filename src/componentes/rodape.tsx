@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "next/image";
-import Logo from "../../../arquivos_sorveteria/public/logo.png";
+import Logo from "../../arquivos_sorveteria/public/logo.png";
 import styles from "./rodape.module.css";
 
 const Rodape = () => {

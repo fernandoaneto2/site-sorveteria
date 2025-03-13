@@ -6,9 +6,9 @@ import Image from "next/image";
 import sorveteOreo from "../../../../arquivos_sorveteria/public/sabor-oreo.png";
 import sorvetePistache from "../../../../arquivos_sorveteria/public/sabor-pistache.png";
 import sorveteCookies from "../../../../arquivos_sorveteria/public/sabor-cookies-avela.png";
-import sorveteKiwi from "../../../../../arquivos_sorveteria/public/sorbet-kiwi.png";
-import sorveteMorango from "../../../../../arquivos_sorveteria/public/sorbet-morango.png";
-import sorveteLimao from "../../../../../arquivos_sorveteria/public/sorbet-limao.png";
+import sorveteKiwi from "../../../../arquivos_sorveteria/public/sorbet-kiwi.png";
+import sorveteMorango from "../../../../arquivos_sorveteria/public/sorbet-morango.png";
+import sorveteLimao from "../../../../arquivos_sorveteria/public/sorbet-limao.png";
 
 const SaboresPage = () => {
   return (
