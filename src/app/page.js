@@ -2,9 +2,9 @@ import React from "react";
 import NavBar from "../componentes/navbar";
 import styles from "../app/page.module.css";
 import Image from "next/image";
-import bannerSabores from "../../../arquivos_sorveteria/public/banner-sabores.jpg";
+import bannerSabores from "../../arquivos_sorveteria/public/banner-sabores.jpg";
 import ImageEventos from "../../arquivos_sorveteria/public/eventos-image.jpg";
-import ImageSobre from "../../../arquivos_sorveteria/public/sobre-image.jpg";
+import ImageSobre from "../../arquivos_sorveteria/public/sobre-image.jpg";
 import Rodape from "@/componentes/rodape";
 
 export default function Home() {
