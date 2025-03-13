@@ -1,0 +1,21 @@
+Cores: 
+
+#FFFFFF -- Branco
+#D9DDE1 -- Cinza Claro 
+#474747 -- Cinza Escuro
+#000000 -- Preto
+#F9DB79 -- Amarelo
+
+Dimensoes Logo:
+
+largura -- 100px
+altura -- 100px
+
+Dimensoes pagina:
+
+largura -- 100%
+altura -- 100%
+containers -- Largura -- 50%/50%/100%
+containers -- Altura -- 100vh
+
+

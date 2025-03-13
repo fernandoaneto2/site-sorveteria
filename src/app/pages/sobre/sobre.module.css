@@ -1,0 +1,60 @@
+.container_um {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  color: white;
+  height: 90vh;
+  background-image: url("../../../../arquivos_sorveteria/public/banner-sobre.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.texto_principal {
+  font-size: 100px;
+  font-weight: bold;
+  text-align: center;
+  margin: 20px;
+  text-shadow: 3px 5px 2px #474747;
+}
+.subtitulo {
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  margin: 20px;
+}
+.container_dois {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  padding: 20px 200px;
+  margin-bottom: 30px;
+  text-align: center;
+  font-size: 14px;
+}
+.container_tres {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.image {
+  width: 50vw;
+  height: 60vh;
+}
+@media (max-width: 768px) {
+  .texto_principal {
+    font-size: 50px;
+  }
+  .container_dois {
+    padding: 20px;
+  }
+  .image {
+    width: 100vw;
+  }
+}
